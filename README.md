@@ -12,6 +12,6 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/-Leetcode-black?style=for-the-badge&logo=leetcode&logoColor=yellow" alt="LinkedIn Badge"/>
   </a><br>
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=nikesh559&style=flat-square&color=blue" alt=""/>
  </div>
  
